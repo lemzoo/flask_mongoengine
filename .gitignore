@@ -1,0 +1,3 @@
+# Ignore some file on git referencement
+__pycache__/
+virtual_environment/
